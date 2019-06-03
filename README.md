@@ -6,4 +6,4 @@ Design credit - https://dribbble.com/shots/5756452-Hengteng-Mimi-APP/attachments
 
 ## Screenshots
 
-![airbnb.gif]()
+![](airbnb.gif)
